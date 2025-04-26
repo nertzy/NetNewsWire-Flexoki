@@ -6,6 +6,8 @@ This project is a port of [Flexoki](https://github.com/kepano/flexoki/tree/main?
 
 ## Installation
 
+To automatically install the theme click this [link](netnewswire://theme/add?url=https://github.com/frznv/NetNewsWire-Flexoki/releases/download/v1/Flexoki.nnwtheme.zip).
+
 For manual installation, refer to the [official instructions](https://netnewswire.com/help/mac/6.1/en/themes.html):
 
 > You may acquire a theme by downloading it, creating it, or having it shared with you. Typically, the theme will be in a ZIP file. Unzip the theme to a convenient location. Just double-click the unzipped file and confirm if you want to install it.
