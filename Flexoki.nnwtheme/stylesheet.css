@@ -177,7 +177,7 @@ pre {
 }
 
 code, pre {
-	font-family: "Consolas", Monaco, "Courier New", monospace;
+	font-family: "Lilex", "IBM Plex Mono", "SF Mono", monospace;
 	font-size: 1em;
 	-webkit-hyphens: none;
 }
@@ -405,7 +405,7 @@ a.footnote:hover,
 
 	:root {
 		color-scheme: light dark;
-		font-family: "San Francisco", sans-serif;
+		font-family: "IBM Plex Sans", system-ui, sans-serif;
 		font-size: [[font-size]]px;
 		--accent-color: rgb(32, 94, 166);
 		--block-quote-border-color: rgb(32, 94, 166);
@@ -449,7 +449,7 @@ a.footnote:hover,
 		margin-bottom: 64px;
 		padding-left: 48px;
 		padding-right: 48px;
-		font-family: "Helvetica";
+		font-family: "IBM Plex Sans", system-ui, sans-serif;
 	}
 
 	.smallText {
