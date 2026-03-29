@@ -6,8 +6,8 @@ Based on [Flexoki](https://github.com/kepano/flexoki) by [Steph Ango](https://st
 
 ## Changes from upstream
 
-- **Body font**: IBM Plex Sans (instead of San Francisco / Helvetica)
-- **Code font**: Lilex / IBM Plex Mono (instead of Consolas / Monaco)
+- **Body font**: [IBM Plex Sans](https://github.com/IBM/plex)
+- **Code font**: [Lilex](https://github.com/mishamyrt/Lilex) / [IBM Plex Mono](https://github.com/IBM/plex)
 
 ## Installation
 
