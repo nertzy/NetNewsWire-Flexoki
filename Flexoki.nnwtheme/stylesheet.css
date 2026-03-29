@@ -196,7 +196,7 @@ pre code {
  could have been used. However, then the inter-cell borders
  overlap the table border, which looks bad.
  */
- 
+
 .nnw-overflow table {
 	margin-bottom: 1px;
 	border-spacing: 0;
@@ -392,7 +392,7 @@ a.footnote:hover,
 
 /* iOS Specific */
 @supports (-webkit-touch-callout: none) {
-	
+
 	body {
 		margin-top: 3px;
 		margin-bottom: 20px;
