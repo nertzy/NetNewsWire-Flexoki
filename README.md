@@ -1,19 +1,26 @@
-# Flexoki Theme for NetNewsWire
+# Flexoki Theme for NetNewsWire (Fork)
 
-An adaptation of the default theme of the popular RSS reader [NetNewsWire](https://netnewswire.com/). The theme focuses on aligning article appearance with the Flexoki colourway and philosophy.
+A fork of the [Flexoki theme](https://github.com/frznv/NetNewsWire-Flexoki) for [NetNewsWire](https://netnewswire.com/), with custom font choices.
 
-This project is a port of [Flexoki](https://github.com/kepano/flexoki/tree/main?tab=readme-ov-file), created by [Steph Ango](https://stephango.com/flexoki).
+Based on [Flexoki](https://github.com/kepano/flexoki) by [Steph Ango](https://stephango.com/flexoki). Original theme by [frznv](https://github.com/frznv).
+
+## Changes from upstream
+
+- **Body font**: IBM Plex Sans (instead of San Francisco / Helvetica)
+- **Code font**: Lilex / IBM Plex Mono (instead of Consolas / Monaco)
 
 ## Installation
 
-To automatically install the theme click this link: netnewswire://theme/add?url=https://github.com/frznv/NetNewsWire-Flexoki/releases/download/v1/Flexoki.nnwtheme.zip.
+Download `Flexoki.nnwtheme.zip` from the [latest release](https://github.com/nertzy/NetNewsWire-Flexoki/releases), unzip it, and double-click the `.nnwtheme` file to install.
 
-For manual installation, refer to the [official instructions](https://netnewswire.com/help/mac/6.1/en/themes.html):
+For more details, see the [official theme instructions](https://netnewswire.com/help/mac/6.1/en/themes.html).
 
-> You may acquire a theme by downloading it, creating it, or having it shared with you. Typically, the theme will be in a ZIP file. Unzip the theme to a convenient location. Just double-click the unzipped file and confirm if you want to install it.
+## Development
 
-To download the ZIP file for this theme, click the green "Code" button at the top of this repository and select "Download ZIP".
+Build the zip and install locally:
 
-## Contribution
+```
+make
+```
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Pull requests should include a clear description of the changes made and the reason for the proposed update.
+This zips the theme bundle and copies it into NetNewsWire's Themes directory.
