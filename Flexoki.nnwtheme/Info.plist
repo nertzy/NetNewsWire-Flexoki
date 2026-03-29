@@ -5,12 +5,12 @@
 	<key>Name</key>
 	<string>Flexoki</string>
 	<key>ThemeIdentifier</key>
-	<string>com.github.frznv.NetNewsWire-Flexoki</string>
+	<string>com.github.nertzy.NetNewsWire-Flexoki</string>
 	<key>CreatorHomePage</key>
-	<string>https://github.com/frznv</string>
+	<string>https://github.com/nertzy</string>
 	<key>CreatorName</key>
-	<string>frznv</string>
+	<string>Grant Hutchins (forked from frznv)</string>
 	<key>Version</key>
-	<integer>2</integer>
+	<integer>3</integer>
 </dict>
 </plist>
